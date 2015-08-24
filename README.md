@@ -1,4 +1,4 @@
-## Your Name
+## Kirsten Jones
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 Previously an energy and infrastructure lawyer but wanted to spend more of my time building things.
@@ -15,8 +15,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Evidence
 
 #### Another Skill
+Project management, negotiation, client service
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+2+ years experience negotiating and advising financial instituions and energy/infrastructure developers on project financings and acquisitions in the energy and infrastructure sectors. Through working on large, long-term projects, I developed strong project management skills and delivered ***** Client service/communication/translates to effective teamworking skills e.g. delivering results, managing expectations, being communicative. 
+2+ years experience advising corporates, banks in London and Tokyo.
+Commercial understanding, client needs, delivering polished and timely product, high pressure environment, team work, delegation/communication/ problem-solving,
+
+Specialised in energy and infrastructure, familiar with technology-related issues in commercial deals. Had to deliver practical solutions to complex problems. <EXAMPLES>
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
