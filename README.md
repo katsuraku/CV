@@ -1,6 +1,8 @@
 ## Your Name
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Previously an energy and infrastructure lawyer but wanted to spend more of my time building things.
+Negotiated financing for renewable energy projects to be built around the world. Travelled. Lived in Japan, learned Japanese. Still learning other languages. Into photography. Want to make cool things.
 
 ## Skills
 
