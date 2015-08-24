@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (June - August 2015)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +32,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Oxford University, Keble College (2000 - 2005)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Japanese Studies
+- First
+- Monbusho Japanese government scholarship to study Japanese at Ochanomizu Women's University (2003 - 2004)
 
-#### Any other qualifications
+#### Qualified solicitor in England & Wales
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+Linklaters LLP (start_date to end_date)    
+Associate Solicitor
+Lovells LLP (start_date to end_date)   
+*Your job title*
+Covance
+Wyeth
+IBM
