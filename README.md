@@ -1,8 +1,8 @@
 ## Kirsten Jones
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-Previously an energy and infrastructure lawyer but wanted to spend more of my time building things.
-Negotiated financing for renewable energy projects to be built around the world. Travelled. Lived in Japan, learned Japanese. Still learning other languages. Into photography. Want to make cool things.
+Previously an energy and infrastructure lawyer, I now want to spend my time building stuff.
+Negotiated financing for renewable energy projects to be built around the world, travelled and lived in Japan a few times. Travelled. Still learning Japanese and bits of a few other languages. I want to be part of a team that's passionate about making cool things together, and to work somewhere that supports continued learning.
 
 ## Skills
 
@@ -23,8 +23,8 @@ Commercial understanding, client needs, delivering polished and timely product, 
 
 Specialised in energy and infrastructure, familiar with technology-related issues in commercial deals. Had to deliver practical solutions to complex problems. <EXAMPLES>
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
+- I negotiated financing arrangements for a cool solar power project using new technology in South Africa. 
+- I helped firms figure out how they could do business within the terms of their existing financial and commercial commitments.
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
@@ -39,10 +39,15 @@ Specialised in energy and infrastructure, familiar with technology-related issue
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
+#### College of Law, London, 2008
+- Legal Practice Course (Distinction)
+
+#### BPP, London, 2007
+- Graduate Diploma in Law (Distinction)
+
 #### Oxford University, Keble College (2000 - 2005)
 
-- Japanese Studies
-- First
+- BA Hons Oriental Studies (Japanese) - First class 
 - Monbusho Japanese government scholarship to study Japanese at Ochanomizu Women's University (2003 - 2004)
 
 #### Qualified solicitor in England & Wales
