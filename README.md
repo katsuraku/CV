@@ -6,7 +6,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
  
 Negotiated financing for renewable energy projects to be built around the world, travelled and lived in Japan a few times. Still learning Japanese and bits of a few other languages.
 
-Previously an energy and infrastructure lawyer, I used to negotiate financing for renewable energy projects to be built around the world. I now want to spend my time building stuff. I love working with a team of people who are fun to work with, and as passionate as me about building cool things using an agile design process. I want to work somewhere I can do that.
+Previously an energy and infrastructure lawyer, I used to negotiate financing for renewable energy projects to be built around the world. I now want to spend my time actually building stuff. I love being part of a team of people who are fun to work with, and as passionate as me about making cool things using an agile design process. I want to work somewhere I can do that.
 
 ## Skills
 
@@ -18,7 +18,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-####  Communications
+####  Communication
 Stakeholder management
 Experience in client service - delivering timely advice and keeping the client up to date with progress. Being a proactive point of conatct for clients and anticipating their needs.
 Team projects
@@ -48,13 +48,13 @@ I specialised in energy and infrastructure sectors, and am familiar with technol
 #### Makers Academy (June - August 2015)
 
 - Wrote code using industry best practices: pairing, TDD, BDD, OOP, [SOLID, MVC, DDD]
-- Worked on team projects using agile process, sprints, 
-- Curiosity and hungry passion for code
+- Worked on team projects using agile, sprints, gitflow, waffle boards
+- Love learning how to use code and build new things
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Sinatra, Rails, Javascript, Angular.js, Ionic, Psql, Datamapper, Active Record
+- Rspec, Jasmine, Capybara, Poltergeist, Karma
 
 #### College of Law, London, 2008
 - Legal Practice Course (Distinction)
