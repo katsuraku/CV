@@ -1,8 +1,12 @@
 ## Kirsten Jones
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-Previously an energy and infrastructure lawyer, I now want to spend my time building stuff.
-Negotiated financing for renewable energy projects to be built around the world, travelled and lived in Japan a few times. Travelled. Still learning Japanese and bits of a few other languages. I want to be part of a team that's passionate about making cool things together, and to work somewhere that supports continued learning.
+
+
+ 
+Negotiated financing for renewable energy projects to be built around the world, travelled and lived in Japan a few times. Still learning Japanese and bits of a few other languages.
+
+Previously an energy and infrastructure lawyer, I used to negotiate financing for renewable energy projects to be built around the world. I now want to spend my time building stuff. I love working with a team of people who are fun to work with, and as passionate as me about building cool things using an agile design process. I want to work somewhere I can do that.
 
 ## Skills
 
@@ -14,14 +18,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
-Project management, negotiation, client service
+####  Communications
+Stakeholder management
+Experience in client service - delivering timely advice and keeping the client up to date with progress. Being a proactive point of conatct for clients and anticipating their needs.
+Team projects
+
+Worked in teams on complex, long-term projects. Took responsibility for managing sections of deals - keeping the rest of the team in the loop, ensuring that documents being worked on by different team members are kept in line. Delegation and time management - delivering quality products on moving deadlines in a highly time-pressured environment. 
+
+####  Attention to detail and quality assurance
+Analysis of issues and review of documents. Delivering products that met all client expectations precisely and free of errors.
+
+
+####Project management, negotiation, client service
 
 2+ years experience negotiating and advising financial instituions and energy/infrastructure developers on project financings and acquisitions in the energy and infrastructure sectors. Through working on large, long-term projects, I developed strong project management skills and delivered ***** Client service/communication/translates to effective teamworking skills e.g. delivering results, managing expectations, being communicative. 
 2+ years experience advising corporates, banks in London and Tokyo.
 Commercial understanding, client needs, delivering polished and timely product, high pressure environment, team work, delegation/communication/ problem-solving,
 
-Specialised in energy and infrastructure, familiar with technology-related issues in commercial deals. Had to deliver practical solutions to complex problems. <EXAMPLES>
+####  Commercial awareness                                                                                                                                                 
+I specialised in energy and infrastructure sectors, and am familiar with technology-related issues in commercial deals, as well as the ongoing considerations of companies in relation to their financing and corporate structures.
 
 - I negotiated financing arrangements for a cool solar power project using new technology in South Africa. 
 - I helped firms figure out how they could do business within the terms of their existing financial and commercial commitments.
@@ -32,6 +47,8 @@ Specialised in energy and infrastructure, familiar with technology-related issue
 
 #### Makers Academy (June - August 2015)
 
+- Wrote code using industry best practices: pairing, TDD, BDD, OOP, [SOLID, MVC, DDD]
+- Worked on team projects using agile process, sprints, 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
