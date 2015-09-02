@@ -1,6 +1,6 @@
 ## Kirsten Jones
 In my previous life as a lawyer, I negotiated financing for renewable energy projects to be built around the world. But for me, the coolest (or is that geekiest?) part was finding out about the technology used in the projects and how they were built. Now I want to spend my time actually making stuff. I love being part of a team of people who are fun to work with, and as passionate as me about making cool things using an agile design/development process. I want to work somewhere I can do that every day.
-***("considered cassion" - Will.)***
+***("considered passion" - W.)***
 
 ## Skills
 
