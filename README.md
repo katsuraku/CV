@@ -47,6 +47,8 @@ I have 2+ years experience advising banks and energy/infrastructure developers o
 ####  Commercial awareness                                                                                                                                                 
 I specialised in the energy and infrastructure sectors. One of my favourite deals was an amazing solar plant in South Africa which is now nearly complete. I had to understand a lot of commerical and industry specific issues as well as purely legal aspects. This has been a great grounding in how businesses work and I think it now gives me a ruthlessly practical approach to design. I always keep the end goal in mind.
 
+#### Future prediction
+
 ## Education
 
 ##### Makers Academy (June - August 2015)
