@@ -1,12 +1,12 @@
 ## Kirsten Jones
-In my previous life as a lawyer, I negotiated financing for renewable energy projects to be built around the world. But for me, the coolest (or is that geekiest?) part was finding out about the technology used in the projects and how they were built. Now I want to spend my time actually making stuff. I love being part of a team of people who are fun to work with, and as passionate as me about making cool things using an agile design/development process. I want to work somewhere I can do that every day.
+In my previous life as a lawyer, I negotiated financing for renewable energy projects to be built around the world. But for me, the coolest (or geekiest?) part was finding out about the technology used in the projects and how they were built. Now I want to spend my time actually making stuff. I love being part of a team of people who are fun to work with, and as passionate as me about making cool things using an agile design/development process. I want to work somewhere I can do that every day.
 ***("considered passion" - W.)***
 
 ## Skills
 
 #### Coding skills
 ###### Object oriented design and test driven development
-I began exploring OO ith projects in Ruby. I'm determined to learn to make the most maintainable code in the west. I genuinely love TDD - it feels like a magical process that helps to break huge problems down into little bites. One example of an exercise I worked on is this simulation of a takeaway restaurant, a back-end piece written in Ruby and tested with Rspec:
+I began exploring OO with projects in Ruby. When I first started playing with code I didn't know anything about testing. I now genuinely love TDD - it feels like a magical process that helps to break huge problems down into little bites. This simulation of a takeaway restaurant, a back-end piece written in Ruby and tested with Rspec, was one of my first test-driven projects:
 https://github.com/katsuraku/takeaway-challenge
 
 ###### APIs, JavaScript and jQuery
@@ -15,7 +15,7 @@ https://github.com/katsuraku/thermostat_sinatra
 https://github.com/katsuraku/imdb_searcher
 
 ###### Databases and MVC frameworks
-Databases are more amazing than they first seem. It has been really interesting to see how technologies like Active Record allow you to associate categories of data in powerful ways. I used DataMapper and Sinatra to create "chitter", an app that replicates some features of Twitter. I then used Active Record and Rails to create an instagram clone. As an exercise I tried to expand on my OO experience by extracting some functionality in pix into a service object.
+Databases were more interesting than they first seemed. It has been really interesting to see how technologies like Active Record allow you to associate categories of data in powerful ways. I used DataMapper and Sinatra to create "chitter", an app that replicates some features of Twitter. I then used Active Record and Rails to create an instagram clone. As an exercise I tried to expand on my OO experience by extracting some functionality in pix into a service object.
 
 https://github.com/katsuraku/chitter-challenge
 
@@ -55,23 +55,16 @@ I specialised in the energy and infrastructure sectors. One of my favourite deal
 - 12 weeks of design, construction, disaster recovery and team fun
 ##### College of Law, London, 2008
 - Legal Practice Course (Distinction)
-
 ##### BPP Law School, London, 2007
 - Graduate Diploma in Law (Distinction)
-
 #### Oxford University, Keble College (2000 - 2005)
-
 - BA Hons Oriental Studies (Japanese) - First class 
 - Monbusho Japanese government scholarship to study Japanese at Ochanomizu Women's University (2003 - 2004)
 
 ## Work History
-
 Linklaters LLP (2008 - 2015): Associate Solicitor
-
 Covance (2006): Drug Safety Support Specialist
-
 Lovells LLP (2005): Legal internship
-
 Wyeth (2005): Quality Control/Compliance Assistant
 
 IBM (2000 and 2001): Summer Internships
