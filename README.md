@@ -16,7 +16,9 @@ https://github.com/zeus-org/detour-rails
 https://github.com/zeus-org/detour-ionic
 * Ruby with Sinatra and DataMapper: "Chitter" is an app that clones features of twitter. Tested with Rspec and Capybara.
 *https://github.com/katsuraku/chitter-challenge
+
 * Ruby, JavaScript and jQuery, with Sinatra: "Thermostat" mimics an interactive thermostat, and displays the current temperature and next day forecast of a city of your choice. Tested with Jasmine.
+
 * https://github.com/katsuraku/thermostat_sinatra
 
 ####  Commitment to craftsmanship
@@ -40,10 +42,13 @@ I learn from my mistakes. In my previous role I was keen to take on client-facin
 
 ##### Makers Academy (June - August 2015)
 - 12 weeks of design, construction, disaster recovery and team fun
+
 ##### College of Law, London, 2008
 - Legal Practice Course (Distinction)
+
 ##### BPP Law School, London, 2007
 - Graduate Diploma in Law (Distinction)
+
 ##### Oxford University, Keble College (2000 - 2005)
 - First Class BA Hons in Oriental Studies (Japanese)
 - Monbusho Japanese government scholarship to study Japanese at Ochanomizu Women's University, Tokyo (2003 - 2004)
