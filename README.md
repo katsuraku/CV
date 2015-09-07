@@ -1,53 +1,40 @@
 ## Kirsten Jones
-In my previous life as a lawyer, I negotiated financing for renewable energy projects to be built around the world. But for me, the coolest (or geekiest?) part was finding out about the technology used in the projects and how they were built. Now I want to spend my time actually making stuff. I love being part of a team of people who are fun to work with, and as passionate as me about making cool things using an agile design/development process. I want to work somewhere I can do that every day.
-***("considered passion" - W.)***
+In my previous life as a lawyer, I negotiated financing for renewable energy projects to be built around the world. But for me, the nerdiest (i.e. best) part was finding out about the technology used in the projects and how they were built. Now I want to spend my time actually making stuff. I love being part of a team of people who are fun to work with, and as passionate as me about learning and building things. I want to work somewhere I can do that every day.
 
 ## Skills
 
-#### Coding skills
-###### Object oriented design and test driven development
-I began exploring OO with projects in Ruby. When I first started playing with code I didn't know anything about testing. I now genuinely love TDD - it feels like a magical process that helps to break huge problems down into little bites. This simulation of a takeaway restaurant, a back-end piece written in Ruby and tested with Rspec, was one of my first test-driven projects:
+#### Innate learner and builder
+Code is close to my heart. I first encountered it aged 10 when I saw my dad using Basic, and couldn't be removed from the computer until I'd taught myself to write a program with a secret password that emulated the strings of a guitar. Several years later I found myself recovering from a horrible bug and unable to leave the house, and coding on my laptop became my freedom. After playing with JavaScript on CodeCademy I was hungry to learn more and so, as the ultimate means to recovery, I joined the heavenly playground that is Makers Academy's bootcamp.
+
+#### I love technology
+I am always hungry to learn about new technologies. Luckily at Makers Academy I was able to build projects using several languages and frameworks, including Ruby, JavaScript, jQuery, Angular, Ionic, Sinatra, Rails and Firebase, and I am still keen to learn more. Here are some examples:
+* Ruby on Rails with Active Record: "Pix" is an app that clones many of the features of instagram.
+https://github.com/katsuraku/instagram-challenge
+    
+* Rails API with Ionic front-end: "Detour" - final group project at Makers Academy. The app takes in user location data and generates recommended journeys via points of interest. Building on initial experience using Angular to make a simple todo list, tested using Karma and Poltergeist, we learned to use Ionic in order to create a hybrid mobile app. Tested using Rspec, Capybara, Karma and Poltergeist.
+https://github.com/zeus-org/detour-rails
+https://github.com/zeus-org/detour-ionic
+* Ruby with Sinatra and DataMapper: "Chitter" is an app that clones features of twitter. Tested with Rspec and Capybara.
+*https://github.com/katsuraku/chitter-challenge
+* Ruby, JavaScript and jQuery, with Sinatra: "Thermostat" mimics an interactive thermostat, and displays the current temperature and next day forecast of a city of your choice. Tested with Jasmine.
+* https://github.com/katsuraku/thermostat_sinatra
+
+####  Commitment to craftsmanship
+At Makers Academy I learned to write clear, maintainable, object-oriented code by testing first. I genuinely love TDD - it feels like a magical process that helps to break huge problems down into little bites. This simulation of a takeaway ordering service, a back-end piece written in Ruby and tested with Rspec, was one of my first test-driven projects:
+
 https://github.com/katsuraku/takeaway-challenge
 
-###### APIs, JavaScript and jQuery
-Writing business logic in JavaScript is fun, not least because I'm a fan of brackets in general. While working on the "Thermostat" project linked below, I discovered the amazing amount of free info there is flying out of APIs, and how to interact with them using AJAX calls. Another example liked below is "imdbsearcher" - a basic search engine which queries OMDB, an API that retrieves information from imdb. (I was extremely happy working on this one because I love movie trivia.)
-https://github.com/katsuraku/thermostat_sinatra
-https://github.com/katsuraku/imdb_searcher
+####  Problem solving
+I am good at breaking a project down into workstreams, anticipating potential issues and coming up with strategies to deal with them. As a lawyer I helped my clients fix problem situations - figuring out what the issues were and how best to resolve them. If companies were about to break the terms of their loan agreement I helped them understand the possible repercussions, and negotiated with their banks to avoid loan-mageddon.
 
-###### Databases and MVC frameworks
-Databases were more interesting than they first seemed. It has been really interesting to see how technologies like Active Record allow you to associate categories of data in powerful ways. I used DataMapper and Sinatra to create "chitter", an app that replicates some features of Twitter. I then used Active Record and Rails to create an instagram clone. As an exercise I tried to expand on my OO experience by extracting some functionality in pix into a service object.
+#### Team player
+I am incredibly motivated when working with a team to create something. At Makers Academy I became weirdly addicted to the process of designing and redesigning using the agile approach. I am apparently known as a good pair partner because I communicate well, and I really believe that there is some alchemy that means two people working together produce better results than they would separately. My old clients and colleagues said that my sense of humour really helped keep spirits up on long, difficult projects and during stressful times.
 
-https://github.com/katsuraku/chitter-challenge
+####  Commercial nous
+I bring a practical, goal-oriented approach to my technical work. Through my years of experience advising banks and commercial developers on their projects, I have learned what it takes to deliver a quality product in a highly time-pressured environment. In my previous job I successfully negotiated and finalised financing and other commercial contracts for numerous clients. One of my proudest achievements is negotiating part of the financing for the first solar plant in Africa to use tower technology, and a 100MW parabolic trough solar plant in South Africa, and seeing the construction progress online.
 
-https://github.com/katsuraku/instagram-challenge
-
-###### Angular
-I first experimented with Angular by using it to rewrite the simple app which queries the github API (originally done using JavaScript and jQuery). I found the two-way data-binding incredible and really fun to use. The next project was a simple todo list, tested using Karma and Poltergeist, which I have linked below. 
-https://github.com/katsuraku/todo_challenge
-
-###### Other technologies
-At Makers Academy, it has been amazing to experiment with so many technologies which were new to me in a short space of time. I was interested in mobile apps and luckily I had the chance to try using Ionic with Cordova as part of a group project I worked on. It is so useful to be able to write an app in one language that could work on both ios and Android.  
-https://github.com/zeus-org/detour-rails
-
-####  Design/problem solving
-I helped my clients fix problem situations - figuring out what the issues were and how best to resolve them. For example if companies broke the terms of their loan agreement I helped them understand what had happened and the possible repercussions, and then advised them how to resolve the situation without experiencing loan-mageddon.
-
-####  Communication
-I have a lot of experience dealing with internal and external stakeholders on long-term projects. I think being good at listening and explaining things clearly was one of the things that made our clients say they enjoyed working with me.
-
-#### Team work
-I have a naturally collaborative style, and love idea sharing. I most enjoy inclusive processes where ideas can come from any member of a team whether junior or senior.
-
-####  Attention to detail and quality assurance
-I am used to taking responsibility for the quality of product delivered to a client. In my experience this requires extremely close attention to detail to ensure a polished result, as well as an ability to keep the overall goals of the client in mind and anticipate changing requirements.
-
-####  Project management, negotiation, client service
-I have 2+ years experience advising banks and energy/infrastructure developers on their projects. Through working on these complex, long-term transactions, I developed strong project management skills. I was responsible for managing sections of multiple deals in parallel, which involved being a point of contact for partners on the deals and supervising junior team members at the same time as managing my own tasks. It was a highly time-pressured environment so I am used to sticking to deadlines and getting workstreams flowing quickly.
-
-####  Commercial awareness                                                                                                                                                 
-I specialised in the energy and infrastructure sectors. One of my favourite deals was an amazing solar plant in South Africa which is now nearly complete. I had to understand a lot of commerical and industry specific issues as well as purely legal aspects. This has been a great grounding in how businesses work and I think it now gives me a ruthlessly practical approach to design. I always keep the end goal in mind.
-
-#### Future prediction
+####  Responsive learner
+I learn from my mistakes. In my previous role I was keen to take on client-facing work early on, but I was not practised in truly effective communication - making the purpose and the follow-up actions crystal clear. After taking feedback on this I morphed into a highly effective communicator, and got more and more responsibility for being the point of contact on transactions. I love being able to learn from those above me and I take feedback well. 
 
 ## Education
 
@@ -57,14 +44,14 @@ I specialised in the energy and infrastructure sectors. One of my favourite deal
 - Legal Practice Course (Distinction)
 ##### BPP Law School, London, 2007
 - Graduate Diploma in Law (Distinction)
-#### Oxford University, Keble College (2000 - 2005)
-- BA Hons Oriental Studies (Japanese) - First class 
-- Monbusho Japanese government scholarship to study Japanese at Ochanomizu Women's University (2003 - 2004)
+##### Oxford University, Keble College (2000 - 2005)
+- First Class BA Hons in Oriental Studies (Japanese)
+- Monbusho Japanese government scholarship to study Japanese at Ochanomizu Women's University, Tokyo (2003 - 2004)
 
 ## Work History
-Linklaters LLP (2008 - 2015): Associate Solicitor
-Covance (2006): Drug Safety Support Specialist
-Lovells LLP (2005): Legal internship
-Wyeth (2005): Quality Control/Compliance Assistant
-
-IBM (2000 and 2001): Summer Internships
+* Linklaters LLP (2008 - 2015): 
+Associate Solicitor
+* Covance (2006): Drug Safety Support Specialist
+* Lovells LLP (2005): Legal internship
+* Wyeth (2005): Quality Control/Compliance Assistant
+* IBM (2000 and 2001): Summer Internships
