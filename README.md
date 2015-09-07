@@ -17,9 +17,7 @@ https://github.com/zeus-org/detour-ionic
 * Ruby with Sinatra and DataMapper: "Chitter" is an app that clones features of twitter. Tested with Rspec and Capybara.
 *https://github.com/katsuraku/chitter-challenge
 
-* Ruby, JavaScript and jQuery, with Sinatra: "Thermostat" mimics an interactive thermostat, and displays the current temperature and next day forecast of a city of your choice. Tested with Jasmine.
-
-* https://github.com/katsuraku/thermostat_sinatra
+* JavaScript, jQuery and Ruby with Sinatra: "Thermostat" mimics an interactive thermostat, and displays the current temperature and next day forecast of a city of your choice. Tested with Jasmine. https://github.com/katsuraku/thermostat_sinatra
 
 ####  Commitment to craftsmanship
 At Makers Academy I learned to write clear, maintainable, object-oriented code by testing first. I genuinely love TDD - it feels like a magical process that helps to break huge problems down into little bites. This simulation of a takeaway ordering service, a back-end piece written in Ruby and tested with Rspec, was one of my first test-driven projects:
