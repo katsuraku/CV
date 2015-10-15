@@ -11,7 +11,7 @@ I am always hungry to learn about new technologies. Luckily at Makers Academy I 
 * Ruby on Rails with Active Record: "Pix" is an app that clones many of the features of instagram.
 https://github.com/katsuraku/instagram-challenge
     
-* Rails API with Ionic front-end: "Detour" - final group project at Makers Academy. The app takes in user location data and generates recommended journeys via points of interest. Building on initial experience using Angular to make a simple todo list, tested using Karma and Poltergeist, we learned to use Ionic in order to create a hybrid mobile app. Tested using Rspec, Capybara, Karma and Poltergeist.
+* Rails API with Ionic front-end: "Detour" - final group project at Makers Academy. The app takes in user location data and generates recommended journeys via points of interest. Building on initial experience using Angular to make a simple todo list, tested using Karma and Poltergeist, we learned to use Ionic in order to create a hybrid mobile app. This app was tested using Rspec, Capybara, Karma and Poltergeist.
 https://github.com/zeus-org/detour-rails
 https://github.com/zeus-org/detour-ionic
 * Ruby with Sinatra and DataMapper: "Chitter" is an app that clones features of twitter. Tested with Rspec and Capybara.
